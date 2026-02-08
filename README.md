@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI) Student  
+- 🎓 B.E. Computer Engineering Student  
 - 💡 Interested in AI, Full Stack Development & Problem Solving  
 - 🛠️ Currently building real-world projects  
 - 📚 Learning and improving every single day  
@@ -18,7 +18,7 @@
 
 ### 💻 Languages
 - JavaScript
-- Python
+- C
 - C++
 - SQL
 
