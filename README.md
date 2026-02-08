@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Harshit Kumar
 
-<!--
-**harshit-kumar-dev/harshit-kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | AI Enthusiast | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (AI) Student  
+- 💡 Interested in AI, Full Stack Development & Problem Solving  
+- 🛠️ Currently building real-world projects  
+- 📚 Learning and improving every single day  
+- 🎯 Goal: To build impactful tech products  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+- JavaScript
+- Python
+- C++
+- SQL
+
+### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+
+### 🛠️ Tools
+- Git & GitHub
+- Postman
+- VS Code
+- MongoDB Compass
+
+---
+
+## 📌 Current Focus
+
+- 🔥 Building scalable full-stack applications  
+- 🤖 Exploring AI & Machine Learning  
+- 🧠 Strengthening Data Structures & Algorithms  
+
+---
+
+⭐ *"Consistency beats motivation."*
