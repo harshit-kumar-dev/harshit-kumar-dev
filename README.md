@@ -55,7 +55,6 @@
 
 ## 📂 Highlighted Projects
 
-* **GhostMode:** A mobile chat application built to explore real-time communication.
 * **Website Clones:** Recreated front-end interfaces for platforms like Incredible India, Royal Enfield, Clay, and MakerDeo to master UI/UX fundamentals.
 * **News Aggregator & Utilities:** Built a custom news aggregator website and a unit conversion browser extension.
 
@@ -71,5 +70,4 @@
 
 ---
 
-<h3 align="center">⭐ <i>"Consistency beats motivation."</i></h3>
-<p align="center"><i>"Sometimes you gotta run before you can walk." — Tony Stark</i></p>
+<h3 align="center"><i>"Sometimes you gotta run before you can walk." — Tony Stark</i></h3>
