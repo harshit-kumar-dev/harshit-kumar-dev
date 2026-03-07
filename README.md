@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-kumar-dev&show_icons=true&theme=radium&hide_border=true" alt="Harshit's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit-kumar-dev&show_icons=true&theme=radium&hide_border=true" alt="Harshit's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-kumar-dev&theme=radium&hide_border=true" alt="Harshit's GitHub Streak" />
 </div>
