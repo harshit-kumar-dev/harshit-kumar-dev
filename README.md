@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/harshit-kumar-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=B.E.+Computer+Engineering+Student;Full-Stack+Developer;Hackathon+Enthusiast;Tech+Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=B.E.+Computer+Engineering+Student;Aspiring-Software+Developer;Hackathon+Enthusiast;Tech+Content+Creator" alt="Typing SVG" />
   </a>
 </p>
 
