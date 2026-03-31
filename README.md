@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 1st-year B.E. Computer Engineering student at **IIIT Surat**.
+- 🎓 1st-year B.E. Computer Engineering student at **Coding Gita**.
 - 🛠️ Currently building real-world projects like **GhostMode** (a real-time chat app) and developing browser extensions.
 - 🏆 Active hackathon participant (recently competed in the **UIDAI Aadhaar Hackathon** and **TrustAI Ideathon**).
 - 🎥 Documenting my software development journey, UI clones, and hackathon experiences on my **YouTube channel**.
