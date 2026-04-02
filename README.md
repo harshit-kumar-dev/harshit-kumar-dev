@@ -36,11 +36,17 @@
 
 ## 🚀 Tech Stack
 
+### 🗣️ Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 ### 💻 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
@@ -48,7 +54,6 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ### 🛠️ Tools, Design & Deployment
@@ -69,6 +74,7 @@
 * 🧠 **[COS (Cognitive Operating System)](https://cos-cognitiveoperatingsystem.vercel.app/)** - Built for hackathon competition.
 * 📚 **[StudyFlow AI](https://studyflow-neon.vercel.app/)** - Hackathon project focusing on optimized learning flows.
 * 👾 **[TeamByteBusters](https://teambytebusters.netlify.app/)** - Collaborative team development project.
+* 🌐 **[UI Clone Portfolio](https://listofwebsites.netlify.app/)** - A centralized collection of my front-end website clones (including Incredible India, Royal Enfield, Clay, and MakerDeo) to master UI/UX fundamentals.
 * 🎮 **[Tic-Tac-Toe Game](https://tiktactoe-project.netlify.app/)** - Interactive web-based game.
 
 ---
