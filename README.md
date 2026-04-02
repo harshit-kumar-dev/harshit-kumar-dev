@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=00E1D9,007CB9,36BCF7&height=150&section=header&text=Hi%20👋,%20I'm%20Harshit&fontSize=60&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=FF4D4D,FF0000,990000&height=150&section=header&text=Hi%20👋,%20I'm%20Harshit&fontSize=60&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <h3 align="center">
@@ -8,19 +8,19 @@
 
 <p align="center">
   <a href="https://github.com/harshit-kumar-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=B.E.+Computer+Engineering+Student;Aspiring+Software+Developer;Hackathon+Enthusiast;Tech+Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=B.E.+Computer+Engineering+Student;Aspiring+Software+Developer;Hackathon+Enthusiast;Tech+Content+Creator" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://portfolio-harshit-kr.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/harshitxdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshit.kumar.cg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-990000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Developer GIF" />
+      <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="300" alt="Red Developer GIF" />
     </td>
   </tr>
 </table>
@@ -87,20 +87,18 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" align="center" /> GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit-kumar-dev&show_icons=true&theme=radium&hide_border=true" alt="Harshit's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit-kumar-dev&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&hide_border=true" alt="Harshit's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-kumar-dev&theme=radium&hide_border=true" alt="Harshit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-kumar-dev&fire=FF0000&ring=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0000&sideLabels=ffffff&dates=ffffff&bg_color=000000&hide_border=true" alt="Harshit's GitHub Streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&bg_color=000000&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="Harshit's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" alt="Harshit's Contribution Graph" />
 </div>
 
 ---
 
 ```text
- _   _      _ _        __        __         _     _ _ 
+ _   _       _ _        __        __         _     _ _ 
 | | | | ___| | | ___   \ \      / /__  _ __| | __| | |
 | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
 |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
 |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
-
-<h3 align="center"><i>"Sometimes you gotta run before you can walk." — Tony Stark</i></h3>
