@@ -91,7 +91,7 @@ I love testing my skills and collaborating under pressure. Here are some of the 
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-kumar-dev&theme=radium&hide_border=true" alt="Harshit's GitHub Streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&theme=radium&hide_border=true" alt="Harshit's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&bg_color=000000&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="Harshit's Contribution Graph" />
 </div>
 
 ---
