@@ -26,11 +26,22 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 1st-year B.E. Computer Engineering student at **Swaminarayan University, Kalol**.
-- 🛠️ Currently building real-world web applications, AI-integrated projects, and documenting my software development journey on YouTube.
-- 🏆 Active hackathon competitor, continuously leveling up my problem-solving skills under the pressure of tight deadlines.
-- 🎸 When I'm not coding, you'll probably find me playing the guitar, throwing on some lofi, or watching One Piece.
-- 🎯 Goal: To build impactful tech products and master full-stack development.
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 1st-year B.E. Computer Engineering student at <b>Swaminarayan University, Kalol</b>.</li>
+        <li>🛠️ Currently building real-world web applications, AI-integrated projects, and documenting my software development journey on YouTube.</li>
+        <li>🏆 Active hackathon competitor, continuously leveling up my problem-solving skills under the pressure of tight deadlines.</li>
+        <li>🎸 When I'm not coding, you'll probably find me playing the guitar, throwing on some lofi, or watching One Piece.</li>
+        <li>🎯 Goal: To build impactful tech products and master full-stack development.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,4 +90,13 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 
 ---
 
-<h3 align="center"><i>"Sometimes you gotta run before you can walk." — Tony Stark</i></h3>
+```text
+  ____                 ____                     
+ / __ \___  ___ ___   / __/__  __ _____________ 
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_)
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/ 
+   _/_/                 __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _    
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/
