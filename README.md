@@ -84,16 +84,18 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" align="center" /> GitHub Stats</h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center" />
+  GitHub Stats
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit-kumar-dev&show_icons=true&title_color=00A8E8&icon_color=00A8E8&text_color=ffffff&bg_color=000000&hide_border=true" alt="Harshit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-kumar-dev&fire=00A8E8&ring=00A8E8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00A8E8&sideLabels=ffffff&dates=ffffff&bg_color=000000&hide_border=true" alt="Harshit's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=harshit-kumar-dev&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&bg_color=000000&color=00A8E8&line=00A8E8&point=FFFFFF&hide_border=true" alt="Harshit's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&theme=tokyo-night&hide_border=true" />
 </div>
-
 ---
 
 ```text
