@@ -26,7 +26,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Man Technologist" width="30" align="center" /> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool Face" width="30" align="center" /> About Me</h2>
 
 <table>
   <tr>
@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Developer GIF" />
     </td>
   </tr>
 </table>
@@ -102,3 +102,5 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
 |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
 |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
+
+<h3 align="center"><i>"Sometimes you gotta run before you can walk." — Tony Stark</i></h3>
