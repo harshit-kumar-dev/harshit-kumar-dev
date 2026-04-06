@@ -94,8 +94,6 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=harshit-kumar-dev&theme=tokyonight&hide_border=true" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-kumar-dev&theme=tokyo-night&hide_border=true" />
