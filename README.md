@@ -30,7 +30,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool Face" width="30" align="center" /> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" width="30" align="center" /> About Me</h2>
 
 <table border="0" style="border: none;">
   <tr>
