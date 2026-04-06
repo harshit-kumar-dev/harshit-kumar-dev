@@ -100,7 +100,7 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 ---
 
 ```text
- _   _        _ _        __        __         _     _ _  
+ _   _      _ _         __        __         _     _ _  
 | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
 | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
 |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
