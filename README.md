@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshit-kumar-dev&label=Profile%20Views&color=00A8E8&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://portfolio-harshit-kr.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
   </a>
@@ -28,9 +32,9 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool Face" width="30" align="center" /> About Me</h2>
 
-<table>
+<table border="0" style="border: none;">
   <tr>
-    <td>
+    <td width="60%">
       <ul style="list-style-type: none;">
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" align="center" /> 1st-year B.E. Computer Engineering student at <b>Swaminarayan University, Kalol</b>.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" align="center" /> Currently building real-world web applications, AI-integrated projects, and documenting my software development journey on YouTube.</li>
@@ -39,8 +43,8 @@
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" align="center" /> Goal: To build impactful tech products and master full-stack development.</li>
       </ul>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="Developer Sitting GIF" />
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Developer Animated GIF" />
     </td>
   </tr>
 </table>
@@ -99,8 +103,8 @@ I love testing my skills and collaborating under pressure. Here are some of the 
 ---
 
 ```text
- _   _       _ _        __        __         _     _ _ 
-| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
+ _   _        _ _        __        __         _     _ _  
+| | | | ___| | | ___    \ \      / /__  _ __| | __| | |
+| |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
+|  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
+|_| |_|\___|_|_|\___/      \_/\_/ \___/|_|  |_|\__,_(_)
