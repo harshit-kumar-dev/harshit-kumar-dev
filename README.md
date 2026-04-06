@@ -39,8 +39,7 @@
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" align="center" /> 1st-year B.E. Computer Engineering student at <b>Swaminarayan University, Kalol</b>.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" align="center" /> Currently building real-world web applications, AI-integrated projects, and documenting my software development journey on YouTube.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" align="center" /> Active hackathon competitor, continuously leveling up my problem-solving skills under the pressure of tight deadlines.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Guitar.png" alt="Guitar" width="20" align="center" /> When I'm not coding, you'll probably find me playing the guitar, throwing on some lofi, or watching One Piece.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" align="center" /> Goal: To build impactful tech products and master full-stack development.</li>
+       <li> Goal: To build impactful tech products and master full-stack development.</li>
       </ul>
     </td>
     <td width="40%" align="center">
